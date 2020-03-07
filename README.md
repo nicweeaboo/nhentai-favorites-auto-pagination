@@ -16,6 +16,10 @@ To run the program you need to install web-driver gem.
 	
 or
 	https://rubygems.org/gems/watir-webdriver/versions/0.9.1?locale=pt-BR
+	
+	
+Here the preview of the code working
+https://imgur.com/gallery/svCdLBe
 
 
 
