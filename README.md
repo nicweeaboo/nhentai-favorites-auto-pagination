@@ -18,6 +18,7 @@ Linux (Ubuntu 18.04)
 `
 sudo apt install ruby-full
 `
+
 MacOS Check out this site https://stackify.com/install-ruby-on-your-mac-everything-you-need-to-get-going/
 
 Windows Check out this site https://rubyinstaller.org/
@@ -27,10 +28,28 @@ Windows Check out this site https://rubyinstaller.org/
 web-driver gem
 `
 gem install watir-webdriver -v 0.9.1
+
 `	
 selenium-webdriver
+
 `gem install selenium-webdriver
 `
 
 Here the preview of the code working
 https://imgur.com/gallery/svCdLBe
+
+
+### Run
+1. First of all, you download the script. 
+2. Open your terminal.
+3. You need to change the directory to where the program is located.
+For instance, if the program is located on Downloads folder you type on terminal this:
+`
+cd 'Downloads'
+`
+4. Execute the program. 
+`
+ruby nhentai.rb
+`
+
+### UNFIXED ISSUES 
