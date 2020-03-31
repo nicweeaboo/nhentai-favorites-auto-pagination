@@ -52,6 +52,7 @@ For instance, if the program is located on Downloads folder you type on terminal
 
 `
 cd 'Downloads'
+
 `
 4. Execute the program. 
 `
