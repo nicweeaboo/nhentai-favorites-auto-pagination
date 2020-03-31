@@ -49,10 +49,8 @@ https://imgur.com/gallery/svCdLBe
 3. You need to change the directory to where the program is located.
 
 For instance, if the program is located on Downloads folder you type on terminal this:
-
 `
 cd 'Downloads'
-
 `
 4. Execute the program. 
 
