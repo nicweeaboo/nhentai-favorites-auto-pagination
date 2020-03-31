@@ -41,6 +41,7 @@ https://imgur.com/gallery/svCdLBe
 
 ### Run
 1. First of all, you download the script. 
+
 1.5. Open the nhentai.rb with some text editor and put your login where it says 'USER_NAME' and 'PASSWORD' (don't remove the quotes)
 2. Open your terminal.
 3. You need to change the directory to where the program is located.
