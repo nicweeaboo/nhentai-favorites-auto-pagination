@@ -9,6 +9,9 @@ from your favorite list. It has an smooth auto scroll due the image size and aut
 
 You can speed up things changing the sleep values.
 
+Here the preview of the code working
+https://imgur.com/gallery/svCdLBe
+
 ## How to run
 ### Ruby Installation
 
@@ -34,9 +37,6 @@ selenium-webdriver
 
 `gem install selenium-webdriver
 `
-
-Here the preview of the code working
-https://imgur.com/gallery/svCdLBe
 
 
 ### Run
