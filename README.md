@@ -41,7 +41,8 @@ You just need to install the watir gem. Run the following command.
 `
 gem install watir
 `
-##Drivers
+## Drivers
+
 Now you need to install the firefox or chrome driver in order to run the script. I went through a little bit of trouble to install these things but I'm really clueless with some things. So I will show how I installed the Geckodriver for Firefox on the Ubuntu 18.04 OS. If you are using Windows or MacOS I recommend you guys search how to install because I have no ideia. This link might be useful for Windows users https://medium.com/ananoterminal/ambientar-selenium-no-windows-3b880fa0e827
 
 First of all, go to https://github.com/mozilla/geckodriver/releases and download the proper driver and extract the file. Now you need to make it executable. Open the terminal and change the directory to where the file is.
