@@ -36,6 +36,7 @@ ruby -v
 ### Dependencies
 
 ##Gems
+
 You just need to install the watir gem. Run the following command.
 `
 gem install watir
