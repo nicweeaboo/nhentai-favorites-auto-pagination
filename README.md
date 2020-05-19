@@ -1,6 +1,6 @@
 # NHENTAI READER - INIFINITY FAVORITE RANDOM PICKER WITH AUTO SCROLL AND PAGINATION 
 
-This is a simple and shit ruby script written with 'watir-webdrive' gem to automate the use of nhentai.
+This is a simple and shit ruby script written with 'watir' gem to automate the use of nhentai.
 You just have to put your username and password and just run program.
 
 ## What it does ?
