@@ -9,7 +9,7 @@ from your favorite list. It has an smooth auto scroll due the image size and aut
 
 You can speed up things by changing the sleep values. 
 
-[Demonstration (NSFW)](https://imgur.com/gallery/svCdLBe) 
+[Demonstration (NSFW)] <removed (2022)> 
 
 ## How to run
 ### Ruby Installation
